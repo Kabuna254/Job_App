@@ -1,4 +1,4 @@
-# Job Board API
+# Job Board APP
 
 A full-stack Job Board application that allows Employers to post, update, and delete jobs, while Job Seekers can search and apply for them.
 
@@ -98,9 +98,9 @@ coming soon
 
 ## Live Demo / App URL
 
-Frontend (React/Vite App): [jobboardapp-025.vercel.app](jobboardapp-025.vercel.app)
+Frontend (React/Vite App): [jobboardapp-025.vercel.app](https://jobboardapp-025.vercel.app/)
 
-API Backend (Hosted): *coming soon*
+API Backend (Hosted): [Server](https://job-app-backend-7fj8.onrender.com)
 
 ## License
 
