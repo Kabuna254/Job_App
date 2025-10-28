@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { jobService } from '../api/api';
 import { authService } from '../api/authService';
-import JobList from '../components/JobList';
+import JobList from '../components/jobList';
 
 const Home = () => {
   const [page, setPage] = useState(1);
