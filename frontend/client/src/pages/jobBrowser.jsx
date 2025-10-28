@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useJobs } from '../hooks/useAPI';
-import JobFilters from './JobFilters';
-import JobList from '..components/JobList';
+import JobFilters from './jobFilters';
+import JobList from '..components/jobList';
 
 const JobsBrowser = () => {
   const [page, setPage] = useState(1);

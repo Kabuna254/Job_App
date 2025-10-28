@@ -1,7 +1,7 @@
 import { useNavigate } from 'react-router-dom';
 import { jobService } from '../api/jobService';
 import { authService } from '../api/authService';
-import JobForm from '../components/JobForm';
+import JobForm from '../components/jobForm';
 
 const CreateJob = () => {
   const navigate = useNavigate();
