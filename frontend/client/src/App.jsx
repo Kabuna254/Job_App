@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
-import JobDetails from './pages/JobDetails';
+import JobDetails from './pages/jobDetails';
 import CreateJob from './pages/CreateJob';
 import Layout from './components/AppLayout';
 import ALayout from './components/AuthLayout';
